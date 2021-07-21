@@ -1,9 +1,10 @@
-Hello and welcome!
+Hi!
   - name is Ben
-  - I am a fullstack developer
+  - fullstack software engineer
+  - recent Oklahoma State University graduate
   - actively seeking remote positions !!!!
-  - looking to collaborate on open source projects (:
-  - createit.ag@gmail.com 
+  - eager to collaborate on open source projects (:
+  - reach out at createit.ag@gmail.com 
 
 <!---
 createit-ag/createit-ag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
