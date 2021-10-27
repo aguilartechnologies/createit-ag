@@ -1,5 +1,5 @@
 Hi!
-  - name is Ben
+  - my name is Ben
   - fullstack software engineer
   - recent Oklahoma State University graduate
   - actively seeking remote positions !!!!
